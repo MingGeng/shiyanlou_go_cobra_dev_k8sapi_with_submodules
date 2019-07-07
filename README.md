@@ -1,0 +1,2 @@
+# shiyanlou_go_cobra_dev_k8sapi_with_submodules
+shiyanlou_go_cobra_dev_k8sapi with submodules
